@@ -1,0 +1,15 @@
+.home--post{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.post{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.post svg{
+    width: 35px;
+    height: 35px;
+}

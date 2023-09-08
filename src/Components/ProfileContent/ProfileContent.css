@@ -1,0 +1,25 @@
+
+.background{
+    width: 650px;
+    height: 200px;
+    background-color: rgb(195, 206, 219);
+    position: relative;
+    z-index: -1;
+}
+.content{
+    position: relative;
+    z-index: 1;
+    top: -100px;
+    left: 20px;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+}
+.photo svg{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

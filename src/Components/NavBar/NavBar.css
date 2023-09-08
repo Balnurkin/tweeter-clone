@@ -1,0 +1,28 @@
+.navbar{
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.navbar--links{
+    width: 250px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding-left: 5px;
+}
+.navbar--links svg{
+    width: 20px;
+    height: 20px;
+}
+.btn--tweet{
+    width: 250px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(67, 165, 245);
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}

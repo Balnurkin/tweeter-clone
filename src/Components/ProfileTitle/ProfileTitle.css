@@ -1,0 +1,17 @@
+.profile--title{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding-left: 20px;
+}
+.profile--title span{
+    font-weight: 700;
+    font-size: 18px;
+}
+.profile--title p{
+    font-size: 14px;
+}
+.profile--title svg{
+    width: 20px;
+    height: 20px;
+}

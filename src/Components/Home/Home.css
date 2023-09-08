@@ -1,0 +1,34 @@
+.home{
+    width: 650px;
+}
+.home--title{
+    height: 60px;
+    font-size: 18px;
+    font-weight: 700;
+    padding-top: 5px;
+}
+.home--input{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.home--input input{
+    width: 500px;
+    height: 40px;
+    font-size: 18px;
+}
+.home--input svg{
+    width: 35px;
+    height: 35px;
+}
+.home--tweet{
+    width: 70px;
+    height: 40px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(67, 165, 245);
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
